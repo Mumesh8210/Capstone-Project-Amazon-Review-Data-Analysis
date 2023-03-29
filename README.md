@@ -1,2 +1,3 @@
 # Capstone-Project on  Amazon Review Data Analysis
-Our main objective will be to develop a comprehensive analysis of the reviews, identifying patterns, trends, and sentiments across different categories, products, and customer segments.
+
+The Capstone Project Amazon Review Data Analysis involves analyzing a dataset of Amazon product reviews and extracting insights from the data. The project aims to identify patterns and trends in customer behavior and preferences, as well as examine the impact of different factors on product ratings.
